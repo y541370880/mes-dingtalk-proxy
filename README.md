@@ -1,1 +1,1 @@
-# mes-dingtalk-proxy
+# dingtalk-proxy
